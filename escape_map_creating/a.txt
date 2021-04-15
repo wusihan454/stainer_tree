@@ -1,0 +1,30 @@
+33D32945 STP File, STP Format Version 1.0
+
+SECTION Comments
+Name "RC01"
+Creator "FHJHHY2006"
+Problem "Obstacle-Avoiding Rectilinear Steiner Minimum Tree"
+END
+
+SECTION Graph
+Nodes 6
+Obstacles 4
+END
+
+SECTION Coordinates
+DD 1 80 8160
+DD 2 2300 1140
+DD 3 4800 7460
+DD 4 1310 9000
+DD 5 7240 4470
+DD 6 7310 200
+END
+
+SECTION Obstacles
+RR 3740 2360 5110 2790
+RR 6880 1880 7260 3300
+RR 3750 1990 4710 3540
+RR 8340 1450 8550 2520
+END
+
+EOF

@@ -1,0 +1,17 @@
+﻿  localsearch.cpp
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(141): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(188): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(217): warning C4305: “=”: 从“double”到“float”截断
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(238): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\吴思晗\desktop\escape_map_creating (2)\escape_map_creating\localsearch.cpp(327): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 1750 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  escape_map_creating.vcxproj -> C:\Users\吴思晗\Desktop\escape_map_creating (2)\Release\escape_map_creating.exe
